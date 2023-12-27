@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '850'
     url: http://www.gutenberg.org/2009/agents/850
     wikipedia: https://en.wikipedia.org/wiki/John_Galsworthy
+covers:
+- cover_type: archival
+  image_path: 72258-h/images/cover.jpg
 creator:
   author:
     agent_name: Mottram, R. H. (Ralph Hale)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56621
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Hale_Mottram
 description: Book 1 of The Spanish farm trilogy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72258#The-Spanish-farm
 gutenberg_issued: '2023-11-29'
 identifiers:
   gutenberg: '72258'
